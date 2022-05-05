@@ -1,7 +1,7 @@
 files {
 	'index.html',
 	'style.css',
-	'img/adventus_1.png',
+	'img/slogan.png',
 	'fonts/Ubuntu-L.ttf'
 }
 loadscreen 'index.html'
